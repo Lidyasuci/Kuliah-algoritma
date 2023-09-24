@@ -1,0 +1,14 @@
+soal:azmi punya gelas ukuran 8 liter berisi air penuh,dan gelas kosong ukuran 5 liter  dan 3 liter. kemudian anggun ingin meminta air hanya 4 liter saja.buat kan algoritma supaya anggun mendapatkn air tepat seperti yang dia ingin kn? 
+jawaban: berikut ini adalah algoritma untuk membantu anggun mendapatkan 4 liter air dengan menggunakan gelas
+berukuran 8 liter, 5 liter, dan 3 liter:
+1.isi gelas berukuran 8 liter penuh dengan air 
+2.Tuangkan seluruh isi gelas 8 liter kedalam gelas 5 liter
+3.gelas 8 liter sekarang kosong, sisa air yang ada di gelas 5 liter adalah 3 liter 
+4.tuangkan sisa air dari gelas 5 liter kedalam gelas 3 liter 
+5.gelas 5 liter sekarang kosong , sisa air yang ada di gelas 3 liter adalah 3 liter 
+6.isi gelas berukuran 8 liter penuh air lagi 
+7.tuangkan sebanyak mungkin air dari gelas 8 liter ke dalam gelas 3 liter yang isinya mencapai kapasitas penuh 
+8.setelah langkah sebelum nya, gelas 8 liter akan tersisa akan tersisa 5 liter air 
+9.gelas 3 liter sekarang penung dengan 3 liter air , satukan air tersebut kedalam gelas 5 liter yang kosong  
+10.gelas 3 liter sekarang kosong , gelas 5 liter berisi 3 liter air 
+11.tuangkan air dari gelas 5 liter kedalam gelas 8 liter yang berisi 5 liter air  
